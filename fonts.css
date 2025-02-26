@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Mainlux Semibold';
+    src: url('https://jdlinventures.github.io/suasion-fonts/MAINLUX-SemiBold.woff2') format('woff2'),
+         url('https://jdlinventures.github.io/suasion-fonts/MAINLUX-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mainlux Medium';
+    src: url('https://jdlinventures.github.io/suasion-fonts/MAINLUX-Medium.woff2') format('woff2'),
+         url('https://jdlinventures.github.io/suasion-fonts/MAINLUX-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Chillax Regular';
+    src: url('https://jdlinventures.github.io/suasion-fonts/Chillax-Regular.woff2') format('woff2'),
+         url('https://jdlinventures.github.io/suasion-fonts/Chillax-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
